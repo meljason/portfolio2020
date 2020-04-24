@@ -1,0 +1,23 @@
+{
+  "name": "portfolio2020",
+  "version": "1.0.0",
+  "description": "Portfolio 2020",
+  "main": "index.js",
+  "scripts": {
+    
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meljason/portfolio2020.git"
+  },
+  "author": "Jason Chong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meljason/portfolio2020/issues"
+  },
+  "homepage": "https://github.com/meljason/portfolio2020#readme",
+  "dependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
